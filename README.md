@@ -6,9 +6,9 @@
 
 # PokeMake
 
-**Command line tool to decorate your make commands with Magic Circle made by Elixir**
+**Command line tool to decorate your make commands with Pokemon made by Elixir**
 
-![demo](https://user-images.githubusercontent.com/33741858/147806471-13b68d26-21e7-4e05-b831-45bfad37e277.gif)
+![demo](https://user-images.githubusercontent.com/33741858/150304582-60997dd7-83ee-444c-afe9-ad315d1b38e7.gif)
 
 ## Installation
 
@@ -47,7 +47,7 @@ $ poke hello
                 ※ ※ ※※  ※ ※  ※ ※※        ※  ※ ※※     ※    ※  ※  ※
                 ※ ※ ※ ※※※ ※  ※  ※※       ※  ※  ※※   ※※※  ※※※  ※※
 =====================================================================================
-hello # call make hello with circle art
+hello # call make hello with pokemon
 ```
 
 ## Bugs and Feature Requests
