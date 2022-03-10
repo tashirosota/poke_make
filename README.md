@@ -6,19 +6,19 @@
 
 # PokeMake
 
-**Command line tool to decorate your make commands with Pokemon made by Elixir**
+**A feature rich Command line tool written in Elixir to decorate your make commands with Pokémons.**
 
 ![demo](https://user-images.githubusercontent.com/33741858/150304582-60997dd7-83ee-444c-afe9-ad315d1b38e7.gif)
 
 ## Installation
 
-- Homebrew
+> Homebrew
 
 ```
 $ brew install tashirosota/homebrew-tap/poke_make
 ```
 
-- escript
+> escript
 
 ```
 $ mix escript.install hex poke_make
@@ -50,6 +50,8 @@ $ poke hello
 hello # call make hello with pokemon
 ```
 
-## Bugs and Feature Requests
+### Bugs and Feature requests
 
-We welcome Bugs and Feature Requests. Feel free to send us an issue or PR.
+Feel free to open an issues or a PR to contribute to the project. 
+
+

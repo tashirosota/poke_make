@@ -2,7 +2,7 @@ defmodule MagicalMake.MixProject do
   use Mix.Project
   @versoin "0.1.0"
   @source_url "https://github.com/tashirosota/poke_make"
-  @description "Decorate your make commands with Pokemon"
+  @description "Decorate your make commands with Pokémons"
 
   def project do
     [
