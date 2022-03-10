@@ -6,7 +6,7 @@
 
 # PokeMake
 
-**A feature rich Command line tool written in Elixir to decorate your make commands with Pokémons.**
+**A feature rich command line tool written in Elixir to decorate your make commands with Pokémons.**
 
 ![demo](https://user-images.githubusercontent.com/33741858/150304582-60997dd7-83ee-444c-afe9-ad315d1b38e7.gif)
 
